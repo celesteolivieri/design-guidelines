@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Messaging](chapter1.md)
+* [Outline](outline.md)
+* [Educational Callouts](educational-callouts.md)
+

@@ -1,3 +1,13 @@
-# First Chapter
+# Messaging
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## Mural status {#muralstatus}
+
+#### Purpose
+
+Inform the mural auto-save status
+
+  
+![](/assets/import.png)
+
+
+
