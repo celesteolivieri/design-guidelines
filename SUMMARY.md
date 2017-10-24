@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Colors](chapter1.md)
-* [Typography](outline.md)
-* [Iconography](educational-callouts.md)
 * [Avatars](dialog-boxes.md)
+* [Iconography](educational-callouts.md)
+* [Typography](outline.md)
+* [Colors](chapter1.md)
 * [Buttons](colors.md)
 * [Input field](colors.md)
 * [Search field](search-field.md)
